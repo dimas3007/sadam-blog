@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Sadam | Blog</title>
+    <title>SMBIBEN</title>
 
     <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
@@ -11,7 +11,7 @@
 <div class="col-md-12 border-bottom">
     <div class="container">
         <div class="py-4 px-4 d-flex justify-content-between">
-            <a href="./index.html">
+            <a href="./index.php">
                 <div class="d-flex">
                     <h3 class="font-weight-bold text-danger">SM</h3>
                     <h3 class="text-dark">BIBEN</h3>
@@ -22,7 +22,7 @@
         <div class="px-4 d-flex">
             <ul class="d-flex p-0" style="list-style: none">
                 <li class="font-weight-bold mr-3">
-                    <a href="./artikel.html" class="text-dark">#Artikel</a></li>
+                    <a href="./artikel.php" class="text-dark">#Artikel</a></li>
                 <li class="font-weight-bold mx-3">
                     <a href="infografis.php" class="text-dark">InfoGrafis</a></li>
             </ul>
@@ -66,7 +66,7 @@
                             <div class="carousel-caption d-none d-md-block">
                                 <h5>Artikel</h5>
                                 <p>
-                                    <a href="./artikel/artikel1.html" class="text-light">
+                                    <a href="./artikel/artikel1.php" class="text-light">
                                         Harimu Merasa Mager ? Ini 5 Alasan Kalau Kamu Gak Boleh Malas
                                     </a>
                                 </p>
@@ -77,7 +77,7 @@
                             <div class="carousel-caption d-none d-md-block">
                                 <h5>Artikel</h5>
                                 <p>
-                                    <a href="./artikel/artikel2.html" class="text-light">
+                                    <a href="./artikel/artikel2.php" class="text-light">
                                         Strategi Komunikasi di Era Global
                                     </a>
                                 </p>
@@ -88,7 +88,7 @@
                             <div class="carousel-caption d-none d-md-block">
                                 <h5>InfoGrafis</h5>
                                 <p>
-                                    <a href="./artikel/infografis.html" class="text-light">
+                                    <a href="./artikel/infografis.php" class="text-light">
                                         5 Alasan Penting Mengenal Luar Angkasa
                                     </a>
                                 </p>
@@ -109,7 +109,7 @@
                 <div class="border-bottom d-flex py-2">
                     <img src="./assets/img/artikel1_1.jpg" alt="" width="75" height="75">
                     <div class="px-2">
-                        <a href="./artikel/artikel1.html" class="text-dark">
+                        <a href="./artikel/artikel1.php" class="text-dark">
                             Harimu Merasa Mager ? Ini 5 Alasan Kalau Kamu Gak Boleh Malas
                         </a>
                     </div>
@@ -117,7 +117,7 @@
                 <div class="border-bottom d-flex py-2">
                     <img src="./assets/img/artikel2_1.jpg" alt="" width="75" height="75">
                     <div class="px-2">
-                        <a href="./artikel/artikel2.html" class="text-dark">
+                        <a href="./artikel/artikel2.php" class="text-dark">
                             Strategi Komunikasi di Era Global
                         </a>
                     </div>
@@ -125,7 +125,7 @@
                 <div class="border-bottom d-flex py-2">
                     <img src="./assets/img/infografis1_1.png" alt="" width="75" height="75">
                     <div class="px-2">
-                        <a href="./artikel/infografis.html" class="text-dark">
+                        <a href="./artikel/infografis.php" class="text-dark">
                             5 Alasan Penting Mengenal Luar Angkasa
                         </a>
                     </div>
@@ -149,7 +149,7 @@
                         </div>
                         <div class="py-1">
                             <h5>
-                                <a href="./artikel/artikel1.html" class="text-dark">
+                                <a href="./artikel/artikel1.php" class="text-dark">
                                     Harimu Merasa Mager ? Ini 5 Alasan Kalau Kamu Gak Boleh Malas
                                 </a>
                             </h5>
@@ -165,7 +165,7 @@
                         </div>
                         <div class="py-1">
                             <h5>
-                                <a href="./artikel/artikel2.html" class="text-dark">
+                                <a href="./artikel/artikel2.php" class="text-dark">
                                     Strategi Komunikasi di Era Global
                                 </a>
                             </h5>
@@ -182,7 +182,7 @@
                             <span class="text-danger font-weight-bold">Blog </span>
                             <span style="color: gray">~ 02 Mei 21 | 20.23</span>
                             <h5>
-                                <a href="./artikel/artikel1.html" class="text-dark">
+                                <a href="./artikel/artikel1.php" class="text-dark">
                                     Harimu Merasa Mager ? Ini 5 Alasan Kalau Kamu Gak Boleh Malas
                                 </a>
                             </h5>
@@ -196,7 +196,7 @@
                             <span class="text-danger font-weight-bold">InfoGrafis </span>
                             <span style="color: gray">~ 02 Mei 21 | 20.23</span>
                             <h5>
-                                <a href="./artikel/infografis.html" class="text-dark">
+                                <a href="./artikel/infografis.php" class="text-dark">
                                     5 Alasan Penting Mengenal Luar Angkasa
                                 </a>
                             </h5>
@@ -210,7 +210,7 @@
                             <span class="text-danger font-weight-bold">Blog </span>
                             <span style="color: gray">~ 02 Mei 21 | 20.23</span>
                             <h5>
-                                <a href="/artikel/artikel2.html" class="text-dark">
+                                <a href="/artikel/artikel2.php" class="text-dark">
                                     Strategi Komunikasi di Era Global
                                 </a>
                             </h5>
