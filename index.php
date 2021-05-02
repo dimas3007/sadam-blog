@@ -34,7 +34,7 @@
         <div class="px-4 py-2 d-flex border-bottom border-left border-right">
             <div class="text-danger font-weight-bold border-right pr-3">Trending</div>
             <div class="px-3">
-                <a href="./artikel/artikel1.html" class="text-dark">Harimu Merasa Mager ? Ini 5 Alasan Kalau Kamu Gak Boleh Malas</a>
+                <a href="./artikel/artikel1.php" class="text-dark">Harimu Merasa Mager ? Ini 5 Alasan Kalau Kamu Gak Boleh Malas</a>
             </div>
         </div>
 <!--        <div class="border-bottom border-2 pt-5 pb-2">-->
