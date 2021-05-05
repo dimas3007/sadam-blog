@@ -55,57 +55,7 @@
                     <h3 class="font-weight-bold">5 Alasan Penting Mengenal Luar Angkasa</h3>
                 </div>
                 <div class="py-4">
-                    <img src="../assets/img/infografis1_1.png" alt="" class="my-3" style="width: 35rem; height: 22rem">
-
-                    <h5 class="font-weight-bold">1. Luar Angkasa Itu Sangat Luas	 </h5>
-                    <p class="text-justify">
-                        Pernah merasa jenuh ketika berpergian jauh ?
-                        itu menunjukan bahwa bumi yang kita pijak ini begitu besar.
-                        Ya.. itu baru bumi kita belum lagi jika kita lihat keluar angakasa sana
-                        dimana bumi jika dilihat dari luar angkasa hanya lah titik kecil diantara planet lainnya.
-                    </p>
-
-                    <h5 class="font-weight-bold">2. tidak hanya bumi yang harus kita kenal	 </h5>
-                    <p class="text-justify">
-                        Kita bisa mengenal bagian - bagian dari luar angkasa atau bagian dari
-                        Tata surya seperti Planet - planet terdekat bumi, Bintang, Satelit alami,
-                        Asteroid, Komet dan Lain banyak hal yang ada di luar angkasa sana. dengan
-                        mengenalnya maka ini merupakan suatu unsur penting untuk pengetahuan kita.
-                    </p>
-
-                    <h5 class="font-weight-bold">3. Ada Banyak Fenomena Keindahan Alam di Luar Angkasa </h5>
-                    <p class="text-justify">
-                        ada banyak sekali fenomena alam di luar angkasa sana yang menarik sekali
-                        untuk ditelusuri, selain unik namun juga memberikan keindahan untuk dilihat
-                        dan diamati. meskipun sedikit sekali yang dapat dilihat oleh mata kita secara
-                        langsung, namun ada beberapa yang dapat kita nikmati secara langsung
-                        dengan kondisi tertentu diantaranya seperti Aurora, Hujan meteor,
-                        Gerhana, dan Nebula.
-                    </p>
-
-                    <h5 class="font-weight-bold">4. Banyak Penemuan Hebat Berawal
-                        Dari Riset Luar Angkasa	 </h5>
-                    <p class="text-justify">
-                        Tidak kita sadari bahwa kemajuan teknologi yang kita pakai sehari - hari
-                        ini berawal dari riset untuk luar angkasa. berbagai peralatan yang awal
-                        mulanya untuk meneliti dan membantu para peneliti ini sekarang banyak
-                        digunakan untuk kemudahan manusia dalam keseharian. Contoh besarnya
-                        seperti kamera pada ponsel yang kamu pakai, Awalnya diciptakan Nasa
-                        agar muat pada wahana antariksa.
-                    </p>
-
-                    <h5 class="font-weight-bold">5. Kamu Bisa Lebih Bersyukur	 </h5>
-                    <p class="text-justify">
-                        Kenapa ?, karena kamu akan menyadari bahwa kamu hanyalah mahluk
-                        yang kecil diantara ciptaan Tuhan yang begitu besar lainnya. tidak
-                        hanya sebatas bumi ini yang juga belum sepenuhnya dapat kita
-                        jelajahi dan telusuri apa saja di dalamnya. banyak sekali misteri
-                        yang masih dicoba untuk lebih diteliti kebenarannya, seperti
-                        " apakah ada kehidupan diluar sana selain di bumi ? " atau
-                        " apakah ada mahluk selain manusia seperti ufo atau alien ? ",
-                        Namun kita sepatutnya sudah bisa bersyukur
-                        bisa hidup menikmati ciptaan tuhan di bumi ini.
-                    </p>
+                    <img src="../assets/img/main_infografis.png" alt="" class="my-3" style="width: 35rem; height: 22rem">
 
                     <div class="my-4">
                         <p><i><a href="./artikel2.php" class="text-danger">Baca Juga : Strategi Komunikasi di Era Global.</a></i></p>
