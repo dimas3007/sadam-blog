@@ -3,12 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="d5109efc-c28f-4cfd-8b0b-782aae3a1a5b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artikel/infografis.php" beforeDir="false" afterPath="$PROJECT_DIR$/artikel/infografis.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,7 +51,8 @@
       <updated>1619433564451</updated>
       <workItem from="1619433567701" duration="1497000" />
       <workItem from="1619439653652" duration="7195000" />
-      <workItem from="1619970100676" duration="8306000" />
+      <workItem from="1619970100676" duration="8495000" />
+      <workItem from="1620219501752" duration="914000" />
     </task>
     <servers />
   </component>
@@ -56,10 +60,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" width="585" height="768" key="find.popup" timestamp="1619978003894">
+    <state x="0" y="0" width="585" height="768" key="find.popup" timestamp="1619978592012">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" width="585" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1619978003894" />
+    <state x="0" y="0" width="585" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1619978592012" />
     <state x="339" y="172" key="run.anything.popup" timestamp="1619975977579">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
