@@ -29,7 +29,7 @@
         </div>
     </div>
 </div>
-<div class="container">
+<div class="container" style="min-height: 175rem; height: 100%;">
     <div class="px-4 py-2 d-flex border-bottom border-left border-right">
         <div class="text-danger font-weight-bold border-right pr-3">Trending</div>
         <div class="px-3">
@@ -55,7 +55,7 @@
                     <h3 class="font-weight-bold">5 Alasan Penting Mengenal Luar Angkasa</h3>
                 </div>
                 <div class="py-4">
-                    <img src="../assets/img/main_infografis.png" alt="" class="my-3" style="display: inline-block; width: 100%; height: 100%">
+                    <img src="../assets/img/main_infografis.png" alt="" class="my-3" style="display: inline-block; width: 100%; height: 115rem">
 
                     <div class="my-4">
                         <p><i><a href="./artikel2.php" class="text-danger">Baca Juga : Strategi Komunikasi di Era Global.</a></i></p>
